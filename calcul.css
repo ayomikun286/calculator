@@ -15,12 +15,12 @@ margin-top: 80px;
 #display{
     width: 250px; ;
     height: 40px;
-    
+    background-color: white;
     border-radius: 5px;
     margin-bottom: 10px;
     text-align: right;
     display: flex;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 .buttons{
     display: grid;
