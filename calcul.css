@@ -41,4 +41,7 @@ button{
  button:hover{
 background-color: #979595;
  }
- 
+
+input:focus{ 
+    outline: none;
+}
