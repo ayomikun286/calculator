@@ -26,6 +26,7 @@ margin-top: 80px;
     display: grid;
     grid-template-columns: repeat(4,1fr);
     gap: 10px;
+    color:white
 
 }
 
@@ -45,3 +46,5 @@ background-color: #979595;
 input:focus{ 
     outline: none;
 }
+
+
