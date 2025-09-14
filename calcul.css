@@ -38,13 +38,22 @@ button{
     border-radius: 5px;
     cursor: pointer;
     transition: backgroud-color 0.2s;
+    color: black;
 }
  button:hover{
 background-color: #979595;
  }
 
+
+
 input:focus{ 
     outline: none;
 }
 
+@media (max-width: 900px){
+
+    button{
+        color: black;
+    }
+}
 
